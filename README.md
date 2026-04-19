@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in California
 
-> Free BeamStation sample export with 226 rows and masked direct-contact fields.
+> Free BeamStation sample export with 273 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `335012` |
 | Location | California |
 | Category | Food and Drink |
-| Full dataset size | 2,260 records |
-| Free sample size | 226 records (10.0%) |
-| Last export | 2026-04-09T18:14:20.762181+00:00 |
+| Full dataset size | 2,738 records |
+| Free sample size | 273 records (9.97%) |
+| Last export | 2026-04-16T21:35:35.656189+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-335012/releases/download/sample-latest/beamstation_335012_food_and_drink-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
